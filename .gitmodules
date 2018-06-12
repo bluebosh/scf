@@ -1,6 +1,7 @@
 [submodule "src/diego-release"]
 	path = src/diego-release
-	url = https://github.com/cloudfoundry/diego-release.git
+	url = https://github.com/bluebosh/diego-release.git
+        branch = d2283fff0fc4b7e19161e690cc370fca03ecd3c4
 [submodule "src/cf-mysql-release"]
 	path = src/cf-mysql-release
 	url = https://github.com/cloudfoundry/cf-mysql-release.git
